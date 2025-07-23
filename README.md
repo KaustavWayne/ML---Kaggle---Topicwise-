@@ -50,7 +50,7 @@ These datasets are suited for **binary** and **multi-class classification**. The
 
 1.  [**Titanic - Machine Learning from Disaster**](https://www.kaggle.com/c/titanic): The classic beginner's competition to predict passenger survival.
 2.  [**Heart Disease UCI**](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data): Predict the presence of heart disease in a patient.
-3.  [**Customer Churn Prediction 2020**](https://www.kaggle.com/datasets/shrutimechlearn/customer-churn-prediction-2020): Predict whether a telecom customer will churn.
+3.  [**Customer Churn Prediction 2020**](https://www.kaggle.com/c/customer-churn-prediction-2020): Predict whether a telecom customer will churn.
 4.  [**Breast Cancer Wisconsin (Diagnostic)**](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data): Diagnose breast cancer as malignant or benign based on cell nuclei features.
 5.  [**Pima Indians Diabetes Database**](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database): Predict the onset of diabetes based on diagnostic measures.
 6.  [**Default of Credit Card Clients Dataset**](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset): Predict credit card payment default.
@@ -59,12 +59,12 @@ These datasets are suited for **binary** and **multi-class classification**. The
 9.  [**Stroke Prediction Dataset**](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset): Predict a patient's likelihood of having a stroke.
 10. [**Telco Customer Churn**](https://www.kaggle.com/datasets/blastchar/telco-customer-churn): A popular dataset for predicting customer churn in a telecommunications company.
 11. [**Water Quality**](https://www.kaggle.com/datasets/adityakadiwal/water-potability): Predict if water is potable (safe to drink) based on chemical properties.
-12. [**Credit Card Approval Prediction**](https://www.kaggle.com/datasets/caesarmario/credit-card-approval-prediction): Predict credit card application outcomes.
-13. [**Heart Attack Analysis & Prediction Dataset**](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset): A different heart condition dataset for classification practice.
-14. [**Online Shoppers Purchasing Intention**](https://www.kaggle.com/datasets/henrysue/online-shoppers-purchasing-intention-dataset): Predict whether a website visitor will make a purchase.
+12. [**Credit Card Approval Prediction**](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction): Predict credit card application outcomes.
+13. [**Heart Attack Analysis & Prediction Dataset**](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset): A different heart condition dataset for classification practice.
+14. [**Online Shoppers Purchasing Intention**](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset): Predict whether a website visitor will make a purchase.
 15. [**Bank Marketing (Campaign)**](https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets): Predict if a client will subscribe to a term deposit.
-16. [**Predicting Pulsar Star**](https://www.kaggle.com/datasets/pavanraj159/predicting-a-pulsar-star): Classify radio signals as coming from a pulsar or not.
-17. [**Adult Census Income**](https://www.kaggle.com/datasets/wenruliu/adult-census-income): An alternative dataset for predicting if income is over $50K.
+16. [**Predicting Pulsar Star**](https://www.kaggle.com/datasets/spacemod/pulsar-dataset): Classify radio signals as coming from a pulsar or not.
+17. [**Adult Census Income**](https://www.kaggle.com/datasets/uciml/adult-census-income): An alternative dataset for predicting if income is over $50K.
 
 ***
 
