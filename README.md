@@ -118,17 +118,17 @@ Explore the power of tree-based models. These datasets are ideal for building **
 4.  [**Mushroom Classification**](https://www.kaggle.com/datasets/uciml/mushroom-classification): A safe way to learn to identify poisonous mushrooms.
 5.  [**House Prices - Advanced Regression Techniques**](https://www.kaggle.com/c/house-prices-advanced-regression-techniques): A comprehensive regression challenge perfect for XGBoost.
 6.  [**Store Sales - Time Series Forecasting**](https://www.kaggle.com/c/store-sales-time-series-forecasting): Use time-series data to forecast sales, an excellent use case for boosting models.
-7.  [**TalkingData AdTracking Fraud Detection**](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection-challenge): A large-scale dataset to detect fraudulent ad clicks.
+7.  [**TalkingData AdTracking Fraud Detection**](https://www.kaggle.com/competitions/talkingdata-adtracking-fraud-detection): A large-scale dataset to detect fraudulent ad clicks.
 8.  [**Rain in Australia**](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package): Predict whether it will rain the next day.
 9.  [**Spaceship Titanic**](https://www.kaggle.com/c/spaceship-titanic): A futuristic version of the Titanic challenge, perfect for tree-based models.
-10. [**Flight Price Prediction**](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction-dataset): Predict flight prices, a great regression problem for ensembles.
+10. [**Flight Price Prediction**](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction): Predict flight prices, a great regression problem for ensembles.
 11. [**Weather Prediction**](https://www.kaggle.com/datasets/thedevastator/weather-prediction): A regression problem to predict various weather metrics.
 12. [**Forest Cover Type Prediction**](https://www.kaggle.com/c/forest-cover-type-prediction): Predict the type of forest cover from cartographic variables.
 13. [**Loan Prediction Problem Dataset**](https://www.kaggle.com/datasets/ninzaami/loan-predication): Predict loan eligibility for customers.
 14. [**Hotel Booking Demand**](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand): Predict if a hotel booking will be canceled.
 15. [**Employee Future Prediction**](https://www.kaggle.com/datasets/tejashvi14/employee-future-prediction): Predict employee attrition.
 16. [**Drug Classification**](https://www.kaggle.com/datasets/prathamtripathi/drug-classification): Classify drugs based on patient data.
-17. [**Medical Insurance Premium Prediction**](https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-premium-prediction): Predict insurance premiums, an excellent regression task for ensembles.
+17. [**Medical Insurance Premium Prediction**](https://www.kaggle.com/datasets/tejashvi14/medical-insurance-premium-prediction): Predict insurance premiums, an excellent regression task for ensembles.
 
 ***
 
