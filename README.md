@@ -73,18 +73,18 @@ Use these datasets to implement the **KNN algorithm** for classification and reg
 
 1.  [**Iris Species**](https://www.kaggle.com/datasets/uciml/iris): A simple, classic multi-class classification dataset to classify iris flower species.
 2.  [**Social Network Ads**](https://www.kaggle.com/datasets/rakeshrau/social-network-ads): Predict whether a user will purchase a product based on age and salary.
-3.  [**Fruit Recognition**](https://www.kaggle.com/datasets/yashwantsingh/fruit-recognition): Classify different types of fruits from images.
+3.  [**Fruit Recognition**](https://www.kaggle.com/datasets/chrisfilo/fruit-recognition): Classify different types of fruits from images.
 4.  [**Glass Identification Data Set**](https://www.kaggle.com/datasets/uciml/glass): Classify types of glass based on their chemical properties.
-5.  [**Wine Quality**](https://www.kaggle.com/datasets/uciml/wine-quality): Predict the quality of wine (as a class) based on chemical tests.
+5.  [**Wine Quality**](https://www.kaggle.com/datasets/ruthgn/wine-quality-data-set-red-white-wine): Predict the quality of wine (as a class) based on chemical tests.
 6.  [**Zoo Animal Classification**](https://www.kaggle.com/datasets/uciml/zoo-animal-classification): Classify animals into 7 types based on their characteristics.
 7.  [**Heart Failure Prediction**](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data): Predict patient survival from heart failure.
 8.  [**Haberman's Survival Data Set**](https://www.kaggle.com/datasets/gilsousa/habermans-survival-data-set): Predict the survival of patients who had undergone surgery for breast cancer.
-9.  [**Banknote Authentication UCI data**](https://www.kaggle.com/datasets/salmanfaroz/bank-note-authentication-uci-data): Distinguish between genuine and forged banknotes.
+9.  [**Banknote Authentication UCI data**](https://www.kaggle.com/datasets/ritesaluja/bank-note-authentication-uci-data): Distinguish between genuine and forged banknotes.
 10. [**Predicting Employee Attrition**](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset): Predict if an employee will leave the company.
 11. [**Car Evaluation Data Set**](https://www.kaggle.com/datasets/elikplim/car-evaluation-data-set): Evaluate a car's acceptability based on its features.
-12. [**Obesity Classification**](https://www.kaggle.com/datasets/mrsimple07/obesity-classification-dataset): Classify individuals into different obesity levels based on lifestyle factors.
-13. [**Dry Bean Dataset**](https://www.kaggle.com/datasets/uciml/dry-bean-dataset): Classify different types of dry beans from images.
-14. [**Wheat Seed Quality**](https://www.kaggle.com/datasets/eliasdabbas/seeds-dataset): Classify wheat seed varieties.
+12. [**Obesity Classification**](https://www.kaggle.com/datasets/sujithmandala/obesity-classification-dataset): Classify individuals into different obesity levels based on lifestyle factors.
+13. [**Dry Bean Dataset**](https://www.kaggle.com/datasets/muratkokludataset/dry-bean-dataset): Classify different types of dry beans from images.
+14. [**Wheat Seed Quality**](https://www.kaggle.com/datasets/rwzhang/seeds-dataset): Classify wheat seed varieties.
 
 ***
 
