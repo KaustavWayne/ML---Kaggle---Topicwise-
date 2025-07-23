@@ -158,19 +158,19 @@ For these datasets, the goal is not to predict a label but to discover natural g
 
 1.  [**Mall Customer Segmentation Data**](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python): A simple dataset to segment customers based on their spending habits.
 2.  [**Wholesale customers data set**](https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set): Segment clients of a wholesale distributor.
-3.  [**Unsupervised Learning on Country Data**](https://www.kaggle.com/datasets/rohan0yoon/unsupervised-learning-on-country-data): Categorize countries using socio-economic and health factors.
+3.  [**Unsupervised Learning on Country Data**](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data): Categorize countries using socio-economic and health factors.
 4.  [**FIFA 22 complete player dataset**](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset): Cluster football players based on their skills and attributes.
 5.  [**Credit Card Dataset for Clustering**](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata): Segment credit card holders based on their usage patterns.
-6.  [**Live selling on TikTok**](https://www.kaggle.com/datasets/jconning/live-selling-on-tiktok): Cluster products or sessions based on performance metrics.
-7.  [**Sales and Marketing Customer Segmentation**](https://www.kaggle.com/datasets/vetrirah/customer-analytics): Another great dataset for customer segmentation.
+6.  [**Live selling on TikTok**](https://www.kaggle.com/datasets/manishkumar7432698/tiktok-profiles-data): Cluster products or sessions based on performance metrics.
+7.  [**Sales and Marketing Customer Segmentation**](https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset): Another great dataset for customer segmentation.
 8.  [**Online Retail II UCI**](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci): A large dataset for clustering customers based on their transaction history.
-9.  [**US Arrests**](https://www.kaggle.com/datasets/kurohana/usarrests): Cluster US states based on crime rates.
+9.  [**US Arrests**](https://www.kaggle.com/datasets/mathchi/violent-crime-rates-by-us-state): Cluster US states based on crime rates.
 10. [**H&M Personalized Fashion Recommendations**](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations): Cluster users or articles from a massive retail dataset.
-11. [**Starbucks Customer Survey**](https://www.kaggle.com/datasets/mahirahmzh/starbucks-customer-survey): Segment Starbucks customers based on their survey responses.
-12. [**Spotify Dataset 1921-2020, 160k+ Tracks**](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-160k-tracks): Cluster songs based on their audio features like danceability, energy, and loudness.
-13. [**YouTube Channel Analysis**](https://www.kaggle.com/datasets/piyushbisht1/youtube-channel-analysis-and-trend-prediction): Cluster YouTube channels based on their content and performance metrics.
-14. [**Geographical Clustering with Crime Data**](https://www.kaggle.com/datasets/sohier/crime-data-from-2010-to-2019): Use DBSCAN to find crime hotspots in Chicago.
-15. [**World Happiness Report up to 2024**](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024): Cluster countries based on their happiness scores and contributing factors.
+11. [**Starbucks Customer Survey**](https://www.kaggle.com/datasets/volpatto/coffee-quality-database-from-cqi): Segment Starbucks customers based on their survey responses.
+12. [**Spotify Dataset 1921-2020, 160k+ Tracks**](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-1921-2020-160k-tracks): Cluster songs based on their audio features like danceability, energy, and loudness.
+13. [**YouTube Channel Analysis**](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset): Cluster YouTube channels based on their content and performance metrics.
+14. [**Geographical Clustering with Crime Data**](https://www.kaggle.com/datasets/currie32/crimes-in-chicago): Use DBSCAN to find crime hotspots in Chicago.
+15. [**World Happiness Report up to 2024**](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2024): Cluster countries based on their happiness scores and contributing factors.
 
 ***
 
