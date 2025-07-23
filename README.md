@@ -35,13 +35,13 @@ These datasets contain many features, making them ideal for practicing **feature
 5.  [**Mercedes-Benz Greener Manufacturing**](https://www.kaggle.com/c/mercedes-benz-greener-manufacturing): Reduce the time cars spend on the test bench using a high-dimensional dataset.
 6.  [**Santander Customer Transaction Prediction**](https://www.kaggle.com/c/santander-customer-transaction-prediction): Predict if a customer will make a specific transaction, regardless of the amount.
 7.  [**IEEE-CIS Fraud Detection**](https://www.kaggle.com/c/ieee-fraud-detection): A large dataset with many anonymized features for fraud detection.
-8.  [**QS World University Rankings**](https://www.kaggle.com/datasets/whenamI/qs-world-university-rankings-2017-2022): Dataset with numerous ranking factors perfect for feature importance analysis.
-9.  [**League of Legends Diamond Ranked Games**](https://www.kaggle.com/datasets/paololol/league-of-legends-diamond-ranked-games-10-min): Predict game outcomes using a multitude of in-game stats.
-10. [**Parkinsons Disease Data Set**](https://www.kaggle.com/datasets/mgmarques/parkinsons-disease-data-set-uci): A dataset with many biomedical voice measurements.
-11. [**Census Income Dataset**](https://www.kaggle.com/datasets/uciml/census-income-dataset): Predict if income exceeds $50K/yr based on census data with many features.
+8.  [**QS World University Rankings**](https://www.kaggle.com/datasets/padhmam/qs-world-university-rankings-2017-2022): Dataset with numerous ranking factors perfect for feature importance analysis.
+9.  [**League of Legends Diamond Ranked Games**](https://www.kaggle.com/datasets/bobbyscience/league-of-legends-diamond-ranked-games-10-min): Predict game outcomes using a multitude of in-game stats.
+10. [**Parkinsons Disease Data Set**](https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set): A dataset with many biomedical voice measurements.
+11. [**Census Income Dataset**](https://www.kaggle.com/datasets/uciml/adult-census-income): Predict if income exceeds $50K/yr based on census data with many features.
 12. [**Microsoft Malware Prediction**](https://www.kaggle.com/c/microsoft-malware-prediction): Predict if a machine is infected with malware based on a large number of machine properties.
 13. [**Credit Score Classification**](https://www.kaggle.com/datasets/parisrohan/credit-score-classification): Predict credit scores using a mix of numerical and categorical features.
-14. [**World Bank Indicators**](https://www.kaggle.com/datasets/theworldbank/world-bank-indicators): A massive dataset with thousands of indicators to practice feature selection on a global scale.
+14. [**World Bank Indicators**](https://www.kaggle.com/datasets/georgejdinicola/world-bank-indicators): A massive dataset with thousands of indicators to practice feature selection on a global scale.
 
 ***
 
