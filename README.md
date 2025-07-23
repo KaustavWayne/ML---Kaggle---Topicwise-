@@ -9,17 +9,17 @@ These datasets are excellent for predicting continuous values. They are perfect 
 2.  [**USA Housing**](https://www.kaggle.com/datasets/kanths028/usa-housing): Predict house prices based on various features of the house and area.
 3.  [**Student Performance Data Set**](https://www.kaggle.com/datasets/larsen0966/student-performance-data-set): Predict student grades based on demographic, social, and school-related features.
 4.  [**Car Price Prediction**](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction): Predict the price of used cars based on their specifications.
-5.  [**Fish Market**](https://www.kaggle.com/datasets/aungpyaeap/fish-market): Predict the weight of fish based on species and physical measurements.
-6.  [**Combined Cycle Power Plant**](https://www.kaggle.com/datasets/saurabhbagchi/combined-cycle-power-plant): Predict the net hourly electrical energy output of a power plant.
+5.  [**Fish Market**](https://www.kaggle.com/datasets/vipullrathod/fish-market): Predict the weight of fish based on species and physical measurements.
+6.  [**Combined Cycle Power Plant**](https://www.kaggle.com/datasets/rinichristy/combined-cycle-power-plant-data-set-uci-data): Predict the net hourly electrical energy output of a power plant.
 7.  [**Boston Housing Dataset**](https://www.kaggle.com/datasets/arslanali4343/real-estate-dataset): A classic dataset for regression tasks, predicting median home values in Boston suburbs.
-8.  [**Salary Prediction of Data Professions**](https://www.kaggle.com/datasets/amirmahdiabbootalebi/salary-prediction-of-data-professions): Predict salaries based on job title, experience, and location.
+8.  [**Salary Prediction of Data Professions**](https://www.kaggle.com/datasets/abdelrhmantarek37/salary-prediction-of-data-professions): Predict salaries based on job title, experience, and location.
 9.  [**California Housing Prices**](https://www.kaggle.com/datasets/camnugent/california-housing-prices): A more complex housing dataset for regression, including geographical data.
 10. [**Used Car Dataset**](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho): Predict the selling price of used cars with extensive features.
 11. [**Student Alcohol Consumption**](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption): Predict student's final grade based on social and school factors.
 12. [**Walmart Store Sales Forecasting**](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting): Predict sales for 45 Walmart stores using historical data.
 13. [**Energy efficiency Data Set**](https://www.kaggle.com/datasets/uciml/energy-efficiency-data-set): Predict the heating and cooling load of buildings.
 14. [**Happiness and Alcohol Consumption**](https://www.kaggle.com/datasets/marcospessotto/happiness-and-alcohol-consumption): Explore the relationship between happiness scores and alcohol consumption by country.
-15. [**Concrete Compressive Strength Data Set**](https://www.kaggle.com/datasets/maajdl/concrete-compressive-strength-data-set): Predict the strength of concrete based on its components.
+15. [**Concrete Compressive Strength Data Set**](https://www.kaggle.com/datasets/elikplim/concrete-compressive-strength-data-set): Predict the strength of concrete based on its components.
 16. [**Diamonds**](https://www.kaggle.com/datasets/shivam2503/diamonds): Predict the price of diamonds based on their cut, color, clarity, and other physical attributes.
 17. [**E-commerce Customer Behavior**](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce): Predict customer satisfaction scores or review scores based on purchase data.
 
