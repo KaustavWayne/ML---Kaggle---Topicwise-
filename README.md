@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" alt="Machine Learning Logo" width="350"/>
+  <img src="logo.jpg" alt="Machine Learning Logo" width="750"/>
 </p>
 
 # 🧠 Machine Learning Kaggle Dataset Collection
