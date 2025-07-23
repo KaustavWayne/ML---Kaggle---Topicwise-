@@ -138,18 +138,18 @@ These high-dimensional datasets are perfect for applying **Principal Component A
 1.  [**Digit Recognizer (MNIST)**](https://www.kaggle.com/c/digit-recognizer): The "hello world" of image recognition, classify handwritten digits.
 2.  [**Fashion-MNIST**](https://www.kaggle.com/datasets/zalando-research/fashionmnist): A more challenging alternative to MNIST for image classification.
 3.  [**Human Activity Recognition with Smartphones**](https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones): Classify human activities using smartphone sensor data with over 500 features.
-4.  [**Olivetti Faces**](https://www.kaggle.com/datasets/tavoglc/olivetti-faces): A dataset of facial images, ideal for practicing PCA for face recognition ("Eigenfaces").
+4.  [**Olivetti Faces**](https://www.kaggle.com/datasets/sahilyagnik/olivetti-faces): A dataset of facial images, ideal for practicing PCA for face recognition ("Eigenfaces").
 5.  [**CIFAR-10 - Object Recognition in Images**](https://www.kaggle.com/c/cifar-10): A more complex image dataset with 10 classes of objects.
 6.  [**Epileptic Seizure Recognition Data Set**](https://www.kaggle.com/datasets/harunshimanto/epileptic-seizure-recognition): A high-dimensional EEG signal dataset.
-7.  [**Gas sensor array under dynamic conditions**](https://www.kaggle.com/datasets/uciml/gas-sensor-array-under-dynamic-conditions): Use many sensor readings to classify gas mixtures.
-8.  [**Mice Protein Expression**](https://www.kaggle.com/datasets/uciml/mice-protein-expression): A dataset with 77 protein expression levels, great for PCA.
-9.  [**Arrhythmia Data Set**](https://www.kaggle.com/datasets/uciml/arrhythmia-data-set): Predict cardiac arrhythmia from ECG signals with 279 attributes.
-10. [**ISOLET Data Set**](https://www.kaggle.com/datasets/uciml/isolet-data-set): Predict which letter of the alphabet a person is speaking, using 617 features.
+7.  [**Gas sensor array under dynamic conditions**](https://www.kaggle.com/datasets/uciml/gas-sensor-array-under-dynamic-gas-mixtures): Use many sensor readings to classify gas mixtures.
+8.  [**Mice Protein Expression**](https://www.kaggle.com/datasets/ruslankl/mice-protein-expression): A dataset with 77 protein expression levels, great for PCA.
+9.  [**Arrhythmia Data Set**](https://www.kaggle.com/datasets/abhilashbk/arrhythmia-ecg-dataset-from-uci): Predict cardiac arrhythmia from ECG signals with 279 attributes.
+10. [**ISOLET Data Set**](https://www.kaggle.com/datasets/gorangsolanki/isolet-dataset): Predict which letter of the alphabet a person is speaking, using 617 features.
 11. [**Yale Face Database**](https://www.kaggle.com/datasets/olgabelitskaya/yale-face-database): Another classic face dataset for Eigenface analysis.
-12. [**Communities and Crime Unnormalized Data Set**](https://www.kaggle.com/datasets/uciml/communities-and-crime-unnormalized-dataset): Predict crime rates using socio-economic data with over 100 features.
+12. [**Communities and Crime Unnormalized Data Set**](https://www.kaggle.com/datasets/johnp47/communities-and-crime-dataset): Predict crime rates using socio-economic data with over 100 features.
 13. [**Internet Advertisements Data Set**](https://www.kaggle.com/datasets/uciml/internet-advertisements-data-set): Identify web page images as advertisements or not, using high-dimensional features.
-14. [**Lung Cancer Prediction**](https://www.kaggle.com/datasets/thedevastator/predicting-borescope-image-is-cancerous-or-not): Use image features to predict lung cancer.
-15. [**Landsat Satellite (STATLOG)**](https://www.kaggle.com/datasets/uciml/landsat-satellite-statlog): Classify land use from satellite imagery with 36 spectral features.
+14. [**Lung Cancer Prediction**](https://www.kaggle.com/datasets/dishantrathi20/ct-scan-images-for-lung-cancer): Use image features to predict lung cancer.
+15. [**Landsat Satellite (STATLOG)**](https://www.kaggle.com/datasets/esterrotuatampubolon/statlog-landsat-satellite): Classify land use from satellite imagery with 36 spectral features.
 
 ***
 
