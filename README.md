@@ -177,11 +177,11 @@ For these datasets, the goal is not to predict a label but to discover natural g
 ## 🚀 Capstone & Feature Engineering Practice
 These datasets are messy, complex, and require significant **feature engineering**, **data cleaning**, and a combination of many techniques. They are perfect for an **end-to-end capstone project**.
 
-1.  [**Black Friday Sales Prediction**](https://www.kaggle.com/datasets/sagnik1511/black-friday-sales-prediction): A dataset with a mix of data types and missing values, great for preprocessing practice.
+1.  [**Black Friday Sales Prediction**](https://www.kaggle.com/datasets/cerolacia/black-friday-sales-prediction): A dataset with a mix of data types and missing values, great for preprocessing practice.
 2.  [**New York City Airbnb Open Data**](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data): A rich dataset for EDA, feature engineering, and price prediction.
 3.  [**Zomato Bangalore Restaurants**](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants): A messy, real-world dataset requiring extensive cleaning and feature extraction.
 4.  [**Melbourne Housing Market**](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market): Predict housing prices with a dataset that has many columns and missing values.
-5.  [**S&P 500 Stocks (daily updated)**](https://www.kaggle.com/datasets/disisbig/s-p-500-stocks): A financial dataset that requires handling time-series data and creating relevant features.
+5.  [**S&P 500 Stocks (daily updated)**](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks): A financial dataset that requires handling time-series data and creating relevant features.
 6.  [**Avocado Prices**](https://www.kaggle.com/datasets/neuromusic/avocado-prices): A fun dataset for exploring time-series, regression, and feature engineering.
 7.  [**TMDB 5000 Movie Dataset**](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata): Rich text and structured data, great for building a recommender system or predicting revenue.
 8.  [**Used Cars Price Prediction**](https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes): Requires significant cleaning and feature engineering from text fields.
@@ -192,5 +192,5 @@ These datasets are messy, complex, and require significant **feature engineering
 13. [**Netflix Movies and TV Shows**](https://www.kaggle.com/datasets/shivamb/netflix-shows): Perfect for text processing, EDA, and building a content recommender.
 14. [**Google Play Store Apps**](https://www.kaggle.com/datasets/lava18/google-play-store-apps): A messy dataset that needs cleaning, EDA, and can be used to predict app ratings.
 15. [**World Food Facts**](https://www.kaggle.com/datasets/openfoodfacts/world-food-facts): A very messy dataset with millions of products, perfect for advanced data cleaning practice.
-16. [**FIFA 19 complete player dataset**](https://www.kaggle.com/datasets/karangadiya/fifa19): Requires cleaning messy columns (like player value/wage) and extensive feature engineering.
+16. [**FIFA 19 complete player dataset**](https://www.kaggle.com/datasets/javagarm/fifa-19-complete-player-dataset): Requires cleaning messy columns (like player value/wage) and extensive feature engineering.
 17. [**Zillow Prize: Zillow’s Home Value Prediction (Zestimate)**](https://www.kaggle.com/c/zillow-prize-1): A retired competition, but the massive dataset is an ultimate capstone challenge.
