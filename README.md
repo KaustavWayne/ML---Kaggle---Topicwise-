@@ -1,4 +1,11 @@
-Here is a comprehensive list of Kaggle datasets organized by your syllabus topics. Each section includes the original datasets plus 10 new ones to provide a wide array of options for practice.
+<p align="center">
+  <img src="logo.jpg" alt="Machine Learning Logo" width="150"/>
+</p>
+
+# 🧠 Machine Learning Kaggle Dataset Collection
+
+Here is a comprehensive list of Kaggle datasets organized by your **Machine Learning syllabus topics**. Each section includes the **original datasets** plus **10 new verified additions**, giving you a wide array of options to **practice modeling, evaluation, and deployment**.
+
 
 ***
 
@@ -194,3 +201,9 @@ These datasets are messy, complex, and require significant **feature engineering
 15. [**World Food Facts**](https://www.kaggle.com/datasets/openfoodfacts/world-food-facts): A very messy dataset with millions of products, perfect for advanced data cleaning practice.
 16. [**FIFA 19 complete player dataset**](https://www.kaggle.com/datasets/javagarm/fifa-19-complete-player-dataset): Requires cleaning messy columns (like player value/wage) and extensive feature engineering.
 17. [**Zillow Prize: Zillow’s Home Value Prediction (Zestimate)**](https://www.kaggle.com/c/zillow-prize-1): A retired competition, but the massive dataset is an ultimate capstone challenge.
+
+
+### 🧾 Author
+
+> 🚀 *"Turning raw datasets into real-world insights."*  
+> 📚 Curated by **Kaustav Roy Chowdhury** — built for applied Machine Learning practice.
